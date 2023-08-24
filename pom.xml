@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <spring.boot>2.1.2.RELEASE</spring.boot>
+        <spring.boot>3.0.10</spring.boot>
     </properties>
 
     <dependencies>
